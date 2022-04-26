@@ -1,0 +1,20 @@
+[
+  {
+        "nama": 'Han',
+        "emel": 'han@gmail.com',
+        "avatar":
+            'https://as1.ftcdn.net/v2/jpg/01/13/41/66/1000_F_113416666_a7CuS6cvc6D5P5ezUbsTMexJHm9iAgga.jpg',
+      },
+      {
+        "nama": 'Nin',
+        "emel": 'nin@gmail.com',
+        "avatar":
+            'https://icon-library.com/images/avatar-icon-images/avatar-icon-images-4.jpg',
+      },
+      {
+        "nama": 'en',
+        "emel": 'en@gmail.com',
+        "avatar":
+            'https://static.vecteezy.com/system/resources/thumbnails/001/993/889/small/beautiful-latin-woman-avatar-character-icon-free-vector.jpg',
+      },
+      ]
